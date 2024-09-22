@@ -1,0 +1,16 @@
+{
+  "name": "project1-3550",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kayla singletary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "node-jose": "^2.2.0"
+  }
+}
