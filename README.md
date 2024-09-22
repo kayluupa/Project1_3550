@@ -3,3 +3,7 @@ project 1 for class csce 3550. Develop a RESTful JWKS server that provides publi
 
 Kayla Singletary 
 11303333
+
+Requirements
+- node.js v14+
+- npm
